@@ -4,7 +4,8 @@
 using namespace std;
 
 string functionList[] = {"oGV", "oGT", "iGT", "TM", "Finance"};
-int num_FM[] = {0, 0, 0, 0, 0};
+int num_FM[] = {1, 1, 1, 1, 1};
+int num_GMM = 1;
 
 class GeneralMember
 {

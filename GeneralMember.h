@@ -1,6 +1,8 @@
 #include <string>
 #include <vector>
 
+using namespace std;
+
 string functionList[] = {"oGV", "oGT", "iGT", "TM", "Finance"};
 int num_FM[] = {0, 0, 0, 0, 0};
 
